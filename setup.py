@@ -38,7 +38,7 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: WSGI',
         'Topic :: Software Development :: Libraries :: Application Frameworks',
     ],
-    keywords='fanstatic jQuery WSGI middleware static asset',
+    keywords='fanstatic cookieconsent cookie consent WSGI static asset',
     author='Fanstatic Developers',
     author_email='fanstatic@googlegroups.com',
     url='https://bitbucket.org/fanstatic/js.cookieconsent',
